@@ -1,14 +1,24 @@
-# ecommerce_php
-<img width="891" alt="image" src="https://github.com/AshutoshRajGupta/ecommerce_php/assets/89141709/05f2759a-5296-4ae9-b52d-db99a5f7ccd6">
-<img width="863" alt="image" src="https://github.com/AshutoshRajGupta/ecommerce_php/assets/89141709/d1eccb6b-e8c3-49c3-94ae-4b830737d9c9">
-<img width="866" alt="image" src="https://github.com/AshutoshRajGupta/ecommerce_php/assets/89141709/f35e2f8b-16fd-4c4b-ab94-3b01a8c09839">
-<img width="896" alt="image" src="https://github.com/AshutoshRajGupta/ecommerce_php/assets/89141709/d4d31620-c24e-4f0e-9baf-cdf4ff395abd">
-<img width="860" alt="image" src="https://github.com/AshutoshRajGupta/ecommerce_php/assets/89141709/6271b6b9-f15c-425c-b528-2caf1fbcc427">
-<img width="960" alt="image" src="https://github.com/AshutoshRajGupta/ecommerce_php/assets/89141709/b94dec86-f287-4705-94b0-2c9936795d9a">
-<img width="902" alt="image" src="https://github.com/AshutoshRajGupta/ecommerce_php/assets/89141709/533b82a0-f13d-4ba3-a331-8d25c67db221">
+# Ecommerce-Website [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+The *Planet Shopify* is a ecommerce website.Developed using php in backend and mysql database and used html and bootstrap in frontend.
+Also used [formspree](https://formspree.io) in contact form.
+
+## Technologies
+- [PHP](https://www.php.net/docs.php)
+- [Bootstrap](https://getbootstrap.com)
+- [MySQL](https://www.mysql.com)
+- [HTML](https://www.w3schools.com/html/default.asp)
+- [CSS](https://www.w3schools.com/css/default.asp)
+
+[view screenshots](https://winston-dsouza.github.io/#projects)
+
+![index](https://github.com/winston-dsouza/winston-dsouza.github.io/blob/master/images/ecom/productgif.gif)
+
+## Set Up Instructions For Running Website
+- Start the Apache and MySQL modules using the **XAMPP** controller.
+- Open the **phpMyAdmin** and create a database **"ecommerce"**. 
+- Import the **ecommerce.sql** file present in the zip folder.
+- Open the htdocs folder in the xampp folder. Copy paste the folder **Planet-Shopify-ecommerce-website**.
+- Open the browser (chrome), type *localhost/Planet-Shopify-ecommerce-website* and you should see the index page of the website.
 
 
-
-
-
-
+*Note: In about.php in this [line](https://github.com/winston-dsouza/Planet-Shopify-ecommerce-website/blob/master/about.php#L71) enter your email* and activate the form
